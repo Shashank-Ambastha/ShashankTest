@@ -14,15 +14,15 @@ HTML tags are keywords written inside angular brackets ('<' and '>') which dicta
 
 There are various types of HTML tags:
 
--Simple text tags(ex: <p></p>, <h1></h1> etc.)
+-Simple text tags(ex: 'p', 'h1' etc.)
 
--Unclosed tags(ex: <br> etc.)
+-Unclosed tags(ex: 'br' etc.)
 
--List tags(ex: <ul>, <li> etc.)
+-List tags(ex: 'ul', 'li' etc.)
 
--Table tags(ex: <th>, <tr> etc.)
+ -Table tags(ex: 'th', 'tr' etc.)
 
--Style tags(ex: <b>, <i> etc.)
+ -Style tags(ex: 'b', 'i' etc.)
 
 Ans 3: 
 
